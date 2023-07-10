@@ -9,7 +9,7 @@ This repository contains:
 #  Chinese Sentence transformer
 
 
-![demo](https://raw.githubusercontent.com/sinnuswong/Sentence-transformer-CoreML/blob/main/chinese/WechatIMG11162.jpeg)
+![demo](https://github.com/sinnuswong/Sentence-transformer-CoreML/blob/main/chinese/WechatIMG11162.jpeg?raw=true)
 
 #  Multilangual Sentence transformer
 
